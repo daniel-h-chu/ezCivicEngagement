@@ -1,0 +1,16 @@
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\bin\Debug\Hophacks.exe.config
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\bin\Debug\Hophacks.exe
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\bin\Debug\Hophacks.pdb
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\obj\Debug\Hophacks.csprojAssemblyReference.cache
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\obj\Debug\Hophacks.Form1.resources
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\obj\Debug\Hophacks.Properties.Resources.resources
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\obj\Debug\Hophacks.csproj.GenerateResource.cache
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\obj\Debug\Hophacks.csproj.CoreCompileInputs.cache
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\obj\Debug\Hophacks.exe
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\obj\Debug\Hophacks.pdb
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\obj\Debug\Hophacks.Form2.resources
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\bin\Debug\aa-DJ\Hophacks.resources.dll
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\obj\Debug\Hophacks.Form3.resources
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\obj\Debug\Hophacks.Form2.aa-DJ.resources
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\obj\Debug\aa-DJ\Hophacks.resources.dll
+C:\!Daniel\Programs\C#\Hophacks\Hophacks\obj\Debug\Hophacks.Form4.resources
