@@ -37,6 +37,7 @@
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Palatino Linotype", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Image = global::Hophacks.Properties.Resources.closing_screen_text;
             this.label1.Location = new System.Drawing.Point(100, 179);
@@ -52,6 +53,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.button1.BackgroundImage = global::Hophacks.Properties.Resources.close_button;
+            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button1.Location = new System.Drawing.Point(350, 400);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(100, 40);

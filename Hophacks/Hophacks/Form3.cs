@@ -40,5 +40,15 @@ namespace Hophacks
             f4.ShowDialog();
             this.Close();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            textBox3.Text = Form2.txt;
+        }
     }
 }
